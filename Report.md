@@ -17,7 +17,7 @@ There was a need for a structured investigation to uncover the root of the probl
 
 ---
 
-## 👤 Role  
+##  Role  
 
 **Title**: Business Analyst  
 **Responsibilities**:
@@ -71,7 +71,7 @@ The main cause of employee turnover was traced to a cost-cutting strategy that l
 **Title**: Root Cause Analysis – 5 Why Diagram  
 This visual illustrates the steps taken to identify the root cause of employee turnover using the 5 Why method.
 
-![Root Cause Diagram](/images/5why-root-cause-analysis.png)
+![Root Cause Diagram](https://github.com/Kaosarat10/Employee-turnover-Analysis-Root-cause-identification-/blob/main/Root%20Cause%20Analysis.png)
 
 ---
 
